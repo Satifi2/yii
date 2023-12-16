@@ -1,5 +1,5 @@
 <?php
-
+初始化
 /**
  *  Team: BOSHATEAM
  *  Coding by Que MingKai 2113601
